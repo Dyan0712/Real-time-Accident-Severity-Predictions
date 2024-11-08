@@ -1,1 +1,2 @@
 # Real-time-Accident-Severity-Predictions
+Real-time accident severity prediction involves using machine learning (ML) algorithms to predict the severity of an accident immediately after it occurs, based on various data inputs. This prediction can help emergency responders prioritize resources, optimize response times, and potentially save lives. Here’s an overview of how this process typically works:
